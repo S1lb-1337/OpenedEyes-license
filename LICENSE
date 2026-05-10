@@ -2,29 +2,29 @@ OpenedEyes License (OEL) v1.0
 
 Copyright (c) [YEAR] [YOUR NAME]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this file and associated documentation (the "File"), to use, copy, modify, and distribute the File, including modified versions, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
 
-Attribution
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+Any public distribution of the Software or derivative works must visibly
+credit the original author: [YOUR NAME].
 
-You must provide a link to the official/original file.
-You must credit the original author by name or nickname.
-You must clearly state that the File is licensed under the OpenedEyes License.
+The credit must be reasonably visible in at least one of the following:
 
-Chain of Attribution
+repository README;
+project documentation;
+credits section;
+distribution page;
+about page or equivalent location.
 
-If you modify a version of the File that was already modified by another author, you must credit all previous authors and provide links to their versions (if available).
-
-Copyleft Requirement
-
-Any modified or redistributed version of the File must remain under the C1Eye License.
-You may not sublicense or distribute under a different license.
-
-Commercial Use
-
-Commercial use is permitted, provided the above conditions are met.
-
-No Warranty
-
-THE FILE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE FILE OR THE USE OR OTHER DEALINGS IN THE FILE.
-
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
